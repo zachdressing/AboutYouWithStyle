@@ -1,0 +1,57 @@
+
+h1{
+    border: 5px black solid;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 900px;
+    font-size:5em;
+    position: absolute;
+    background-color: white;
+}
+
+.textDiv{
+    border: 5px black solid;
+    border-radius: 15px;
+    padding: 10px;
+    width: 1000px;
+    left: 190px;
+    font-size: larger;
+    margin: 250px;
+    position: absolute;
+    background-color: white;
+    align-self: center;
+}
+
+div{
+    text-align: center;
+    align-self: center;
+}
+
+.ImageLinks{
+    border: 5px black solid;
+    border-radius: 15px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+
+.leftsideImages{
+    padding: 10px;
+    height: 10%;
+    width: 10%;
+    background-color: white;
+}
+
+.imgDiv {
+    border: 5px black solid;
+    border-radius: 15px;
+    padding: 5px;
+    width: auto;
+    position: absolute;
+    bottom: 0;
+    margin-left: 750px;
+    margin-right: 500px;
+    background-color: white;
+  }
